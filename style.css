@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+ul{
+    color: brown;
+    margin: 1%;
+}
+ol{
+    color: chartreuse;
+}
+h3{
+    color: blueviolet;
+    font-size: 20px;
+    margin: 1%;
+}
+h2{
+    color: darkgreen;
+    margin: 5%;
+}
