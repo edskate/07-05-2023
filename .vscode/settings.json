@@ -11,5 +11,5 @@
   "python.testing.pytestEnabled": false,
   "python.testing.unittestEnabled": true,
   "livePreview.defaultPreviewPath": "/index.htm",
-  "cSpell.words": ["estudio", "whith"]
+  "cSpell.words": ["estudio", "wght", "whith"]
 }
